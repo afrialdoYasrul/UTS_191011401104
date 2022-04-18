@@ -29,63 +29,63 @@ class MyApp extends StatelessWidget {
               child: const Center(
                 child: Text('One'),
               ),
-              color: Colors.cyanAccent,
+              color: Color.fromARGB(255, 236, 241, 241),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Two'),
               ),
-              color: Colors.lightBlueAccent,
+              color: Color.fromARGB(255, 25, 206, 191),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Three'),
               ),
-              color: Colors.teal,
+              color: Color.fromARGB(255, 52, 116, 109),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Four'),
               ),
-              color: Colors.blueGrey,
+              color: Color.fromARGB(255, 10, 170, 233),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Five'),
               ),
-              color: Colors.blue,
+              color: Color.fromARGB(255, 5, 89, 158),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Six'),
               ),
-              color: Colors.deepPurple,
+              color: Color.fromARGB(255, 25, 59, 122),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Seven'),
               ),
-              color: Colors.lightBlue,
+              color: Color.fromARGB(255, 5, 61, 87),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Eight'),
               ),
-              color: Colors.greenAccent,
+              color: Color.fromARGB(255, 11, 69, 73),
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
                 child: Text('Nine'),
               ),
-              color: Colors.green,
+              color: Color.fromARGB(255, 2, 50, 58),
             ),
             Container(
               padding: const EdgeInsets.all(20),
