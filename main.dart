@@ -27,84 +27,84 @@ class MyApp extends StatelessWidget {
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('satu'),
+                child: Text('One'),
               ),
               color: Colors.cyanAccent,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('dua'),
+                child: Text('Two'),
               ),
               color: Colors.lightBlueAccent,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('tiga'),
+                child: Text('Three'),
               ),
               color: Colors.teal,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('empat'),
+                child: Text('Four'),
               ),
               color: Colors.blueGrey,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('lima'),
+                child: Text('Five'),
               ),
               color: Colors.blue,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('enam'),
+                child: Text('Six'),
               ),
               color: Colors.deepPurple,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('tujuh'),
+                child: Text('Seven'),
               ),
               color: Colors.lightBlue,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('delapan'),
+                child: Text('Eight'),
               ),
               color: Colors.greenAccent,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('sembilan'),
+                child: Text('Nine'),
               ),
               color: Colors.green,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('sepuluh'),
+                child: Text('Ten'),
               ),
               color: Colors.indigo,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('sebelas'),
+                child: Text('Eleven'),
               ),
               color: Colors.indigoAccent,
             ),
             Container(
               padding: const EdgeInsets.all(20),
               child: const Center(
-                child: Text('duabelas'),
+                child: Text('Twelve'),
               ),
               color: Colors.grey,
             ),
